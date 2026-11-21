@@ -1,4 +1,4 @@
-use arch_erlang::Component;
+use sigmaos_erlang::Component;
 
 #[test]
 fn test_component_new_aaa() {
